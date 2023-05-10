@@ -1,0 +1,12 @@
+{
+    "private": true,
+    "name": "rollup-bug-test",
+    "version": "0.0.0",
+    "license": "CC0",
+    "devDependencies": {
+        "@rollup/plugin-typescript": "11.1.0",
+        "rollup": "3.21.6",
+        "tslib": "2.5.0",
+        "typescript": "5.0.4"
+    }
+}
